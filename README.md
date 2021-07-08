@@ -31,7 +31,7 @@ Open Developement Console or Powershell and type below command
 
 ```
  run python manage.py runserver
-  type localhost:8000 on the browser
+ type localhost:8000 on the browser
 ```
 
 *Important thing use google chorme in developement mode or use another web broswer for smooth exectuion.
