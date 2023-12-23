@@ -1,4 +1,4 @@
-# Drowiness Detection System
+# Covid-19 Tracker
 -----------------------------
 
 ## Setup
